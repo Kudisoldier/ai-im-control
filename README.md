@@ -1,5 +1,5 @@
 # ai-im-control
-Artificial intelligence induction motor control
+Artificial intelligence induction motor control  
 ВКР бакалавриат ИТМО "Исследование алгоритмов интеллектуального управления двигателями переменного тока"
 
 Структура проекта Matlab:
